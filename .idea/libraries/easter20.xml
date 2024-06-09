@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="easter20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/easter/easter20/easter20.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

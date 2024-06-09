@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="owl1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/owl/owl1/owl1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sea28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/sea/sea28/sea28.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

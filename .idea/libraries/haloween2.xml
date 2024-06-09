@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="haloween2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/haloween/haloween2/haloween2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

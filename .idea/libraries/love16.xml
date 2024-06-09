@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="love16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/love/love16/love16.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kingdom2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/kingdom/kingdom2/kingdom2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

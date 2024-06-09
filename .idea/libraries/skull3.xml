@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="skull3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/skull/skull3/skull3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adult12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/adult/adult12/adult12.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

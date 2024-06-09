@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dragon2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/dragon/dragon2/dragon2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

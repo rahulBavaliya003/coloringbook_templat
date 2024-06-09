@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="birds12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/birds/birds12/birds12.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

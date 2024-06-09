@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="other4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/other/other4/other4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

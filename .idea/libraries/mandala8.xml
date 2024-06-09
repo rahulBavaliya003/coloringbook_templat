@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mandala8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/mandala/mandala8/mandala8.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

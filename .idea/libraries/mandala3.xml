@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mandala3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Files/mandala/mandala3/mandala3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
